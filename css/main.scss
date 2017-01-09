@@ -58,3 +58,9 @@ $theme-dark: #222;
 	background-position: center center;
 }
 
+.parts{
+  margin: 0 auto;
+  th,td{
+    padding: 2px 10px;
+  }
+}
